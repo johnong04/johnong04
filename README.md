@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John!</h1>
+<h1 align="center">Hi, I'm John! 👋</h1>
 <h3 align="center">You know, I'm something of a data scientist myself</h3>
 
 🧑🏻‍💻 Data Scientist sharing about **my journey in finding meaning in data and life** <br/>
