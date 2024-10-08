@@ -2,8 +2,8 @@
 <h3 align="center">You know, I'm something of a data scientist myself</h3>
 
 🧑🏻‍💻 Data Scientist sharing about **my journey in finding meaning in data and life** <br/>
-🌱 I’m currently learning **React** <br/>
 📕 Studied Computer Science (Data Science) at **Universiti Malaya** <br/>
+🌱 I’m currently learning **React** <br/>
 🔭 I’m currently working on **my portfolio website** <br/>
 
 <h3 align="left">Connect with me:</h3>
